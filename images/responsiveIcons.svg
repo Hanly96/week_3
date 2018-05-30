@@ -8,6 +8,12 @@
 	#details {
 		display: block;
 	}
+	@media screen and (max-width: 150px)	{
+		#details {
+		display: none;
+		}
+	}
+	
 </style>
 <g id="list">
 	<circle class="st0" cx="469" cy="180" r="108"/>
